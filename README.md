@@ -8,3 +8,6 @@ https://colab.research.google.com/github/2303a52342-39/GAI/blob/main/GAI_WEEK_2.
 
 WEEK-3  
 https://colab.research.google.com/drive/16Z07opC1FVFrhccpAxhgxh6YyOiwELZn#scrollTo=_g67X1dIp8QO
+
+WEEK-4  
+https://colab.research.google.com/drive/17hDvEnnbnYQ_IPtkYbBvJa1TBm_CVpmp#scrollTo=krWcslFgN3n6
