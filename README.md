@@ -11,3 +11,8 @@ https://colab.research.google.com/drive/16Z07opC1FVFrhccpAxhgxh6YyOiwELZn#scroll
 
 WEEK-4  
 https://colab.research.google.com/drive/17hDvEnnbnYQ_IPtkYbBvJa1TBm_CVpmp#scrollTo=krWcslFgN3n6
+WEEK-5  
+https://colab.research.google.com/drive/1Cnp0QEYmH_FTLjgo_xRUQWkF4dSmcK8o
+
+WEEK-6
+https://colab.research.google.com/drive/1QI0AauxiG8TBCkX07F1OdwFKdL6sHK7i
