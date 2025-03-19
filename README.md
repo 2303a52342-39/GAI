@@ -21,5 +21,8 @@ https://colab.research.google.com/drive/1QI0AauxiG8TBCkX07F1OdwFKdL6sHK7i
 WEEK-7    
 https://colab.research.google.com/drive/1Qjo1Ptzm4R3oFC03Luff0j-MpzLQ6gKm      
 
+WEEK-8    
+https://colab.research.google.com/drive/18sc_3EDK1NLk75rZNHMIfCeH9YRtCs1w#scrollTo=chqTmndWkFrc
+
 
 
